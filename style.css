@@ -1,15 +1,43 @@
-
 body {
   background-color: #444444;
-    color: #dddddd;
+  color: #dddddd;
   font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 20%;
+  margin: 10%, 20%;
 }
 
 .exp-header {
   text-align: center;
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background color: rgba (0,0,0,0,1)
+  border-bottom: 1px solid #dddddd
+  background-color: rgba(0,0,0, 0.1)
 }
+
+.apple {
+  color: salmon
+}
+
+.MNconnect {
+  color: rebeccapurple
+}
+
+.orientalnails {
+  color: #f2d4b2
+}
+
+.agaci {
+  color: rgb(201, 96, 134)
+}
+
+.projects {
+  color: yellow
+}
+
+.projects:hover {
+  color: green
+}
+
+.education {
+  color: red
+}
+
